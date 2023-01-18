@@ -46,10 +46,7 @@ const Timeline = () => {
     <Section id = 'about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Generated curiosity about Emerging technologies like Artificial Intelligence,
-        Blockchain and IOT. Decided to revise basics and take GATE exam in 2020. Got All India 1567 rank.
-        Enrolled in MTech from NSIT Delhi 20-22 batch. Enrolled in PG AI/ML program from upgrad. Developed
-        To want to apply AI/ML in finance enrolled in a Quantitative Finance course in 22. 
+      I am a mid-level full stack web engineer with AI/ML and quantitative finance skills. I am conversant with HTML, CSS, Javascript, and the React framework in terms of frontend technologies. I've worked with the Python framework flask and relational databases on the backend. I also understand the foundations of Amazon Cloud Services for deployment.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll = {handleScroll}>
         <>

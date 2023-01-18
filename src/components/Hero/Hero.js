@@ -11,9 +11,7 @@ const Hero = (props) => (
         Welcome To <br/>
         My Personal Portfolio
       </SectionTitle>
-      <SectionText>
-        Valued proposition. What would you be offering to you employers or what projects can you help them built.
-      </SectionText>
+      <SectionText>Full Stack | Machine Learning | Artificial Intelligence | AWS | Quantitative Finance </SectionText>
       <Button onClick={() => window.location = "mailto: mann3774@gmail.com"}>Send me your queries</Button>
     </LeftSection>
   </Section>

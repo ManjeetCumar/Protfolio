@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in web development and Artificail Intelligence world.
+      I've worked with a range of technologies in web development and AI ML world.
     </SectionText>
     <List>
       <ListItem>
@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            React.js
+            HTML, CSS, JS, React
           </ListParagraph>
         </ListContainer>
       </ListItem>
