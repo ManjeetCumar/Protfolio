@@ -30,7 +30,7 @@ export const projects = [
     title: 'Portfolio Website',
     description: "Portfolio website that is well-designed and intuitive. Designed for mobile, with clear calls to action and easily accessible contacts and location. Reacts-styled components are employed.",
     image: '/images/4.png',
-    tags: ['React', 'HTML', 'CSS'],
+    tags: ['Nextjs', 'HTML'],
     source: 'https://google.com',
     visit: 'https://github.com/ManjeetCumar/Protfolio',
     id: 3,
